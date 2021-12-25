@@ -1,0 +1,12 @@
+{
+    "git.ignoreLimitWarning": true,
+
+    "[javascrip]": {
+        "editor.defaultFormatter":"esbenp.prettier.vscode",
+    },
+    "emmet.includeLanguages": {
+        "javascrip":"javascripreact"
+    },
+        
+    
+}
